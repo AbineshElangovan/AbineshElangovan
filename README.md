@@ -1,5 +1,5 @@
 <h1>
-  ##👨‍💻Welcome to My Cyber Globe🌍 Exploring Threats & Defenses in Cybersecurity🛡️ <h1>
+  👋 Hi there!👨‍💻 Welcome to My Cyber World 🌍 Exploring Threats & Defenses in Cybersecurity 🛡️ <h1>
 
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="websocket" title="websocket"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
