@@ -31,3 +31,17 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 
 
+![OWASP](https://img.shields.io/badge/OWASP-%230084CA.svg?logo=owasp&logoColor=white)
+![Injection](https://img.shields.io/badge/Injection-%23D32F2F.svg?logo=security&logoColor=white)
+![Broken Authentication](https://img.shields.io/badge/Broken%20Authentication-%23FF6F00.svg?logo=security&logoColor=white)
+![Sensitive Data Exposure](https://img.shields.io/badge/Sensitive%20Data%20Exposure-%230D47A1.svg?logo=databricks&logoColor=white)
+![XML External Entities (XXE)](https://img.shields.io/badge/XXE-%23E65100.svg?logo=xml&logoColor=white)
+![Broken Access Control](https://img.shields.io/badge/Broken%20Access%20Control-%23000000.svg?logo=lock&logoColor=white)
+![Security Misconfiguration](https://img.shields.io/badge/Security%20Misconfiguration-%239C27B0.svg?logo=security&logoColor=white)
+![Cross-Site Scripting (XSS)](https://img.shields.io/badge/XSS-%2300A8E8.svg?logo=javascript&logoColor=white)
+![Insecure Deserialization](https://img.shields.io/badge/Insecure%20Deserialization-%23D32F2F.svg?logo=security&logoColor=white)
+![Using Components with Known Vulnerabilities](https://img.shields.io/badge/Components%20with%20Vulnerabilities-%23FF6F00.svg?logo=npm&logoColor=white)
+![Insufficient Logging & Monitoring](https://img.shields.io/badge/Insufficient%20Logging%20%26%20Monitoring-%230084CA.svg?logo=logging&logoColor=white)
+
+
+
