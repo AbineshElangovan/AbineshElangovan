@@ -1,5 +1,7 @@
-<h1>
-  👋 Hey there! 👨‍💻 Step into My Cyber World 🌍 Exploring Threats & Defenses in Cybersecurity 🛡️ <h1>
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=650&lines=%F0%9F%91%8B+Hey+there!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Step+into+My+Cyber+World+%F0%9F%8C%8D;Exploring+Threats+%26+Defenses+in+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+</h1>
+
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%230084CA.svg?logo=security&logoColor=white)
 ![Firewall](https://img.shields.io/badge/Firewall-%23D32F2F.svg?logo=fortinet&logoColor=white)
