@@ -31,15 +31,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) 
 
 
-
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-%235835CC.svg?logo=adobe&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-
-
-
 ![OWASP](https://img.shields.io/badge/OWASP-%230084CA.svg?logo=owasp&logoColor=white)
 ![Injection](https://img.shields.io/badge/Injection-%23D32F2F.svg?logo=security&logoColor=white)
 ![Broken Authentication](https://img.shields.io/badge/Broken%20Authentication-%23FF6F00.svg?logo=security&logoColor=white)
@@ -51,6 +42,16 @@
 ![Insecure Deserialization](https://img.shields.io/badge/Insecure%20Deserialization-%23D32F2F.svg?logo=security&logoColor=white)
 ![Using Components with Known Vulnerabilities](https://img.shields.io/badge/Components%20with%20Vulnerabilities-%23FF6F00.svg?logo=npm&logoColor=white)
 ![Insufficient Logging & Monitoring](https://img.shields.io/badge/Insufficient%20Logging%20%26%20Monitoring-%230084CA.svg?logo=logging&logoColor=white)
+
+
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-%235835CC.svg?logo=adobe&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+
+
+
 
 
 
