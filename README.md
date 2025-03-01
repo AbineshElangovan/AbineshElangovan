@@ -35,6 +35,11 @@
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 
 
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-%235835CC.svg?logo=adobe&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
+
+
+
 ![OWASP](https://img.shields.io/badge/OWASP-%230084CA.svg?logo=owasp&logoColor=white)
 ![Injection](https://img.shields.io/badge/Injection-%23D32F2F.svg?logo=security&logoColor=white)
 ![Broken Authentication](https://img.shields.io/badge/Broken%20Authentication-%23FF6F00.svg?logo=security&logoColor=white)
