@@ -14,7 +14,7 @@
 ![OSINT](https://img.shields.io/badge/OSINT-%2300A8E8.svg?logo=internetarchive&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-%23D32F2F.svg?logo=metasploit&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-%23006D77.svg?logo=splunk&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-%230072C6.svg?logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-%23EE3124.svg?logo=fortinet&logoColor=white)
 ![IP Addressing](https://img.shields.io/badge/IP%20Addressing-%231877F2.svg?logo=internetexplorer&logoColor=white)
 ![Exploit Development](https://img.shields.io/badge/Exploit%20Development-%239C27B0.svg?logo=exploitdb&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%23FF6F00.svg?logo=protocol&logoColor=white)
