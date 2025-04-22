@@ -1,6 +1,7 @@
 <h1 align='center'>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=700&lines=%F0%9F%91%8B+Hey+there!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Step+into+My+CyberWorld+%F0%9F%8C%8D;Exploring+Threats+%26+Defenses+in+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Changing+the+Tech+World+%7C+Exploring+Soft+Skills+%26+Threats+%F0%9F%94%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=700&lines=%F0%9F%91%8B+Hey+there!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Welcome+to+My+Tech+Journey+%F0%9F%92%BB;Changing+the+Tech+World+with+Innovation+%F0%9F%9A%80;Exploring+Soft+Skills+for+Future+Leaders+%F0%9F%92%BC" alt="Typing SVG" />
 </h1>
+
 
 
 
