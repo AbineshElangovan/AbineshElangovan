@@ -1,10 +1,9 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3F90F7&center=true&vCenter=true&width=900&lines=Hi%2C+this+is+ABINESH+E+%F0%9F%91%8B;Aspiring+Software+Engineer+with+a+Passion+for+Tech+%F0%9F%92%BB;Skilled+in+Python%2C+SQL%2C+Networking+%26+UI%2FUX+Design+%F0%9F%92%BE;Exploring+the+World+of+Cybersecurity+%F0%9F%94%90;Committed+to+Continuous+Learning+and+Innovation+%F0%9F%92%A1"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=3F90F7&center=true&vCenter=true&width=950&lines=👋+Hi%2C+This+is+ABINESH+E+🚀;💼+Aspiring+Software+Engineer+with+a+Passion+for+Tech+💻✨;🧠+Skilled+in+Python+%2C+SQL+%2C+Networking+%26+UI%2FUX+Design+🎨📊;🔐+Exploring+the+World+of+Cybersecurity+🛡️💣;📚+Committed+to+Continuous+Learning+and+Innovation+💡🧑‍💻"
     alt="Typing SVG"
   />
 </h1>
-
 
 
 
