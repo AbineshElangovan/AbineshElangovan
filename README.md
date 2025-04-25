@@ -1,7 +1,9 @@
-<h1 align='center'>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=800&lines=Hi%2C+I'm+Abinesh+—+Cybersecurity+Enthusiast+%F0%9F%94%90;Passionate+About+Networking+%26+Digital+Security+%F0%9F%8C%90;Aspiring+SOC+Analyst+%7C+Future+Tech+Leader+%F0%9F%9A%80;Blending+Code+%F0%9F%92%BB+and+Communication+Skills+%F0%9F%97%A3%EF%B8%8F+for+Growth;Welcome+to+My+Tech+Journey+%F0%9F%93%88" alt="Typing SVG" />
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F90F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abinesh+—+Cybersecurity+Enthusiast+🔐;Passionate+about+Networking+%26+Security+🌐;Aspiring+SOC+Analyst+%7C+Future+Tech+Leader+🚀;Blending+Code+%2B+Communication+Skills+%3D+Success+💡;Welcome+to+My+Tech+Journey+📈" 
+    alt="Typing SVG" 
+  />
 </h1>
-
 
 
 
