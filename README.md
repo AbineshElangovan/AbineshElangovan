@@ -1,6 +1,7 @@
 <h1 align='center'>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=800&lines=%F0%9F%91%8B+Hey+there!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Welcome+to+My+Tech+Journey+%F0%9F%92%BB%E2%9C%A8;Future+Entrepreneur+in+Tech+%F0%9F%92%BC+%F0%9F%92%BB+%F0%9F%92%AF+%F0%9F%9A%80;Blending+%F0%9F%96%A5%EF%B8%8F+Code+%2B+%F0%9F%92%AD+Soft+Skills+%3D+%F0%9F%92%8E+Success+%F0%9F%92%AA+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=800&lines=👋+Hello+and+Welcome+to+My+Tech+Journey!;Aspiring+Tech+Entrepreneur+%F0%9F%92%BC+on+a+Mission+🚀;Merging+💻+Technical+Expertise+%2B+💬+Communication+Skills+%3D+🌟+Professional+Growth" alt="Typing SVG" />
 </h1>
+
 
 
 
