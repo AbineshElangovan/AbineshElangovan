@@ -24,17 +24,6 @@
 ![Exploit Development](https://img.shields.io/badge/Exploit%20Development-%239C27B0.svg?logo=exploitdb&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%23FF6F00.svg?logo=protocol&logoColor=white)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
-[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?logo=oracle&logoColor=white)](#)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) 
-
-
 ![OWASP](https://img.shields.io/badge/OWASP-%230084CA.svg?logo=owasp&logoColor=white)
 ![Injection](https://img.shields.io/badge/Injection-%23D32F2F.svg?logo=security&logoColor=white)
 ![Broken Authentication](https://img.shields.io/badge/Broken%20Authentication-%23FF6F00.svg?logo=security&logoColor=white)
@@ -46,6 +35,18 @@
 ![Insecure Deserialization](https://img.shields.io/badge/Insecure%20Deserialization-%23D32F2F.svg?logo=security&logoColor=white)
 ![Using Components with Known Vulnerabilities](https://img.shields.io/badge/Components%20with%20Vulnerabilities-%23FF6F00.svg?logo=npm&logoColor=white)
 ![Insufficient Logging & Monitoring](https://img.shields.io/badge/Insufficient%20Logging%20%26%20Monitoring-%230084CA.svg?logo=logging&logoColor=white)
+
+
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?logo=oracle&logoColor=white)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) 
 
 
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-%235835CC.svg?logo=adobe&logoColor=white)
