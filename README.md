@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=3F90F7&center=true&vCenter=true&width=950&lines=👋+Hi%2C+This+is+ABINESH+E+😎;💼+Aspiring+Software+Engineer+with+a+Passion+for+Tech+💻✨;🧠🧑‍💻+Skilled+in+Python+%2C+SQL+%2C+Networking+%26+UI%2FUX+Design+🎨📊;🔐+Exploring+the+World+of+Cybersecurity+🛡️💣"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=3F90F7&center=true&vCenter=true&width=950&lines=👋+Hi%2C+This+is+ABINESH+E+😎;💼+Aspiring+Software+Engineer+with+a+Passion+for+Tech+💻✨;🧠🧑‍💻+Skilled+in+Python+%2C+SQL+%2C+Networking+%26;🔐+Exploring+the+World+of+Cybersecurity+🛡️💣"
     alt="Typing SVG"
   />
 </h1>
@@ -49,8 +49,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) 
 
 
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-%235835CC.svg?logo=adobe&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
+
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
