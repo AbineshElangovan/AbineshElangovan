@@ -6,8 +6,7 @@
 </h1>
 
 
-
-
+<h1 align="center">CYBER SECURITY</h1>
 
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%230084CA.svg?logo=security&logoColor=white)
@@ -38,7 +37,7 @@
 ![Using Components with Known Vulnerabilities](https://img.shields.io/badge/Components%20with%20Vulnerabilities-%23FF6F00.svg?logo=npm&logoColor=white)
 ![Insufficient Logging & Monitoring](https://img.shields.io/badge/Insufficient%20Logging%20%26%20Monitoring-%230084CA.svg?logo=logging&logoColor=white)
 
-
+<h1 align="center">BACKENDY</h1>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
@@ -51,7 +50,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) 
 
 
-
+<h1 align="center">FRONTEND</h1>
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
