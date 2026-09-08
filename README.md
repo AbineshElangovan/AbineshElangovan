@@ -56,7 +56,7 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![next](https://img.shields.io/badge/Next-20232A?logo=react&logoColor=61DAFB)](#)
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](#)
 
 
 
