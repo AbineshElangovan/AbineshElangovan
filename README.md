@@ -1,5 +1,7 @@
 
-<!-- ===================== HEADER ===================== -->
+<!-- ========================================================= -->
+<!--                         HEADER                            -->
+<!-- ========================================================= -->
 
 <h1 align="center">
   <img
@@ -7,6 +9,11 @@
     alt="Typing SVG"
   />
 </h1>
+
+
+<!-- ========================================================= -->
+<!--                     SOCIAL LINKS                          -->
+<!-- ========================================================= -->
 
 <p align="center">
 
@@ -33,32 +40,49 @@
 
 </p>
 
+
+<!-- ========================================================= -->
+<!--                     PROFILE VIEWS                         -->
+<!-- ========================================================= -->
+
 <p align="center">
+
   <img
     src="https://komarev.com/ghpvc/?username=AbineshElangovan&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge"
     alt="Profile Views"
   />
+
 </p>
 
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
 
 <h2 align="center">About Me</h2>
 
 <p align="center">
+
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=30&lines=Driven+by+curiosity.+Building+with+purpose.;Learning%2C+building%2C+and+shipping+modern+applications."
     alt="About Me"
   />
+
 </p>
 
+
 <p align="center">
+
   Hey! I'm <b>ABINESH E</b>, a Software Developer passionate about
   building modern, scalable, and user-focused web applications.
+
   <br />
+
   I enjoy working across the full stack and exploring technologies
   that help transform ideas into real-world products.
+
 </p>
+
 
 <p align="center">
 
@@ -84,16 +108,23 @@
 
 </p>
 
+
 <p align="center">
+
   <b>Interested in:</b>
   Web Development • APIs • Databases • Shopify • Software Architecture
+
   <br />
+
   <b>Currently exploring:</b>
   Modern Full-Stack Development & Scalable Web Applications 🚀
+
 </p>
 
 
-<!-- ===================== WHAT I DO ===================== -->
+<!-- ========================================================= -->
+<!--                       WHAT I DO                           -->
+<!-- ========================================================= -->
 
 <h2 align="center">What I Do</h2>
 
@@ -112,6 +143,7 @@
 
     </td>
 
+
     <td width="50%" align="center" style="padding: 18px;">
 
       <h3>🛍️ Shopify Development</h3>
@@ -125,6 +157,7 @@
 
   </tr>
 
+
   <tr>
 
     <td width="50%" align="center" style="padding: 18px;">
@@ -137,6 +170,7 @@
       </p>
 
     </td>
+
 
     <td width="50%" align="center" style="padding: 18px;">
 
@@ -154,94 +188,14 @@
 </table>
 
 
-<!-- ===================== FEATURED PROJECT ===================== -->
-
-<h2 align="center">Featured Project</h2>
-
-<table width="100%" border="0" align="center">
-
-  <tr>
-
-    <td align="center" style="padding: 22px;">
-
-      <h3>🛍️ Shopify Application Development</h3>
-
-      <p>
-        Building modern Shopify applications with Next.js,
-        TypeScript, Prisma, PostgreSQL, Shopify Admin API and GraphQL.
-      </p>
-
-      <p>
-
-        <img
-          src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"
-          alt="Next.js"
-        />
-
-        <img
-          src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
-          alt="TypeScript"
-        />
-
-        <img
-          src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"
-          alt="Prisma"
-        />
-
-        <img
-          src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"
-          alt="Shopify"
-        />
-
-      </p>
-
-      <p>
-
-        <a href="https://github.com/AbineshElangovan/Portfolio">
-          <img
-            src="https://img.shields.io/badge/Portfolio-View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"
-            alt="Portfolio"
-          />
-        </a>
-
-      </p>
-
-    </td>
-
-  </tr>
-
-</table>
-
-
-<!-- ===================== LEETCODE ===================== -->
-
-<h2 align="center">LeetCode Problem Solving</h2>
-
-<p align="center">
-  <i>
-    Practicing data structures, algorithms, and problem-solving
-    to continuously improve programming skills.
-  </i>
-</p>
-
-<!--
-  Add your LeetCode username below when available.
--->
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/LeetCode-Profile-38BDF8?style=for-the-badge&logo=leetcode&logoColor=white"
-    alt="LeetCode"
-  />
-</p>
-
-
-<!-- ===================== TECH STACK ===================== -->
+<!-- ========================================================= -->
+<!--                  TECH STACK & SKILLS                      -->
+<!-- ========================================================= -->
 
 <h2 align="center">Tech Stack & Skills</h2>
 
 
-<!-- PROGRAMMING LANGUAGES -->
+<!-- ================= PROGRAMMING LANGUAGES ================= -->
 
 <p align="center">
   <b>Programming Languages</b>
@@ -257,7 +211,7 @@
 </p>
 
 
-<!-- FRONTEND -->
+<!-- ================= FRONTEND ================= -->
 
 <p align="center">
   <b>Frontend Development</b>
@@ -273,7 +227,7 @@
 </p>
 
 
-<!-- BACKEND -->
+<!-- ================= BACKEND ================= -->
 
 <p align="center">
   <b>Backend Development</b>
@@ -287,6 +241,7 @@
   />
 
 </p>
+
 
 <p align="center">
 
@@ -303,7 +258,7 @@
 </p>
 
 
-<!-- DATABASE -->
+<!-- ================= DATABASE ================= -->
 
 <p align="center">
   <b>Database & ORM</b>
@@ -318,6 +273,7 @@
 
 </p>
 
+
 <p align="center">
 
   <img
@@ -328,16 +284,21 @@
 </p>
 
 
-<!-- ===================== SHOPIFY ===================== -->
+<!-- ========================================================= -->
+<!--                    SHOPIFY DEVELOPMENT                    -->
+<!-- ========================================================= -->
 
 <h2 align="center">Shopify Development</h2>
 
 <p align="center">
+
   <i>
     Building Shopify applications, integrations, APIs and
     e-commerce solutions.
   </i>
+
 </p>
+
 
 <p align="center">
 
@@ -364,7 +325,9 @@
 </p>
 
 
-<!-- ===================== TOOLS ===================== -->
+<!-- ========================================================= -->
+<!--                    TOOLS & PLATFORMS                      -->
+<!-- ========================================================= -->
 
 <h2 align="center">Tools & Platforms</h2>
 
@@ -376,6 +339,7 @@
   />
 
 </p>
+
 
 <p align="center">
 
@@ -392,13 +356,15 @@
 </p>
 
 
-<!-- ===================== ALL SKILLS ===================== -->
+<!-- ========================================================= -->
+<!--                         ALL SKILLS                        -->
+<!-- ========================================================= -->
 
 <h2 align="center">All Skills</h2>
 
 <p align="center">
 
-  <!-- Languages -->
+  <!-- Programming -->
 
   <img
     src="https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=python&logoColor=white"
@@ -543,7 +509,9 @@
 </p>
 
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
+<!-- ========================================================= -->
+<!--                    GITHUB ANALYTICS                       -->
+<!-- ========================================================= -->
 
 <h2 align="center">GitHub Analytics & Activity</h2>
 
@@ -564,7 +532,9 @@
 </p>
 
 
-<!-- ===================== GITHUB STREAK ===================== -->
+<!-- ========================================================= -->
+<!--                      GITHUB STREAK                        -->
+<!-- ========================================================= -->
 
 <h2 align="center">GitHub Streak</h2>
 
@@ -579,7 +549,9 @@
 </p>
 
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION GRAPH                       -->
+<!-- ========================================================= -->
 
 <h2 align="center">Contribution Activity</h2>
 
@@ -594,15 +566,20 @@
 </p>
 
 
-<!-- ===================== CONNECT ===================== -->
+<!-- ========================================================= -->
+<!--                       CONNECT                             -->
+<!-- ========================================================= -->
 
 <h2 align="center">Let's Connect</h2>
 
 <p align="center">
+
   <i>
     Building, learning, and growing as a Software Developer 🚀
   </i>
+
 </p>
+
 
 <p align="center">
 
@@ -613,6 +590,7 @@
     />
   </a>
 
+
   <a href="https://www.linkedin.com/in/abinesh-elangovan-8535a7235/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -620,9 +598,10 @@
     />
   </a>
 
+
   <a href="https://github.com/AbineshElangovan/Portfolio">
     <img
-      src="https://img.shields.io/badge/Portfolio-View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/Portfolio-View%20Portfolio-38BDF8?style=for-the-badge&logo=github&logoColor=white"
       alt="Portfolio"
     />
   </a>
@@ -630,7 +609,9 @@
 </p>
 
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ========================================================= -->
+<!--                         FOOTER                            -->
+<!-- ========================================================= -->
 
 <p align="center">
 
@@ -641,4 +622,3 @@
   />
 
 </p>
-
