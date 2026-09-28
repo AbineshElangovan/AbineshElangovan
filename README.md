@@ -1,510 +1,348 @@
-
 <!-- ========================================================= -->
-<!--                         HEADER                            -->
-<!-- ========================================================= -->
-
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Hi+there!+I'm+ABINESH+E+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Full-Stack+Web+Application+Developer+%F0%9F%9A%80;Building+Modern+Web+Applications+%F0%9F%92%BB;Next.js+%7C+TypeScript+%7C+Prisma+%7C+Shopify;Turning+Ideas+into+Production-Ready+Applications+%E2%9A%A1"
-    alt="Typing SVG"
-  />
-</h1>
-
-
-<!-- ========================================================= -->
-<!--                     SOCIAL LINKS                          -->
+<!--                    PROFILE HEADER                         -->
 <!-- ========================================================= -->
 
-<p align="center">
+<div align="center">
 
-  <a href="https://github.com/AbineshElangovan">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow-38BDF8?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+# 👋 Hi, I'm **ABINESH E**
 
-  <a href="https://www.linkedin.com/in/abinesh-elangovan-8535a7235/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+### 💻 Software Developer | Full-Stack Web Application Developer
 
-  <a href="https://github.com/AbineshElangovan/Portfolio">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=github&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Software+Developer+%F0%9F%92%BB;Full-Stack+Web+Application+Developer+%F0%9F%9A%80;Building+Modern+Web+Applications+%F0%9F%94%A5;Next.js+%7C+TypeScript+%7C+Prisma+%7C+Shopify;Turning+Ideas+into+Production-Ready+Applications+%E2%9A%A1"
+  alt="Typing SVG"
+/>
 
-</p>
+<br>
 
+<a href="https://github.com/AbineshElangovan">
+  <img src="https://img.shields.io/badge/GitHub-Visit-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<!-- ========================================================= -->
-<!--                     PROFILE VIEWS                         -->
-<!-- ========================================================= -->
+<a href="https://www.linkedin.com/in/abinesh-elangovan-8535a7235/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<p align="center">
+<a href="https://github.com/AbineshElangovan/Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-  <img
-    src="https://komarev.com/ghpvc/?username=AbineshElangovan&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge"
-    alt="Profile Views"
-  />
+<br><br>
 
-</p>
+<img
+  src="https://komarev.com/ghpvc/?username=AbineshElangovan&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge"
+  alt="Profile Views"
+/>
+
+</div>
 
 
 <!-- ========================================================= -->
 <!--                       ABOUT ME                            -->
 <!-- ========================================================= -->
 
-<h2 align="center">About Me</h2>
+## 🚀 About Me
 
-<p align="center">
+<table>
+<tr>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=30&lines=Driven+by+curiosity.+Building+with+purpose.;Learning%2C+building%2C+and+shipping+modern+applications."
-    alt="About Me"
-  />
+<td width="55%" valign="top">
 
-</p>
+### 👨‍💻 Who I Am
 
+Hey! I'm **ABINESH E**, a Software Developer passionate about building modern, scalable and user-focused web applications.
 
-<p align="center">
+I enjoy working across the full stack and transforming ideas into real-world products.
 
-  Hey! I'm <b>ABINESH E</b>, a Software Developer passionate about
-  building modern, scalable, and user-focused web applications.
+### 🎯 Current Focus
 
-  <br />
+- 🚀 Full-Stack Web Development
+- ⚛️ React & Next.js
+- 🟦 TypeScript
+- 🛍️ Shopify App Development
+- 🗄️ PostgreSQL & Prisma
+- 🔌 REST APIs & GraphQL
+- 🏗️ Scalable Application Architecture
 
-  I enjoy working across the full stack and exploring technologies
-  that help transform ideas into real-world products.
+</td>
 
-</p>
+<td width="45%" align="center">
 
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,python,postgresql,prisma,shopify"
+  width="400"
+  alt="Technology Stack"
+/>
 
-<p align="center">
+<br><br>
 
-  <img
-    src="https://img.shields.io/badge/Focus-Full--Stack%20Development-38BDF8?style=flat-square"
-    alt="Full Stack Development"
-  />
+### ⚡ Building
 
-  <img
-    src="https://img.shields.io/badge/Frontend-React%20%26%20Next.js-38BDF8?style=flat-square"
-    alt="Frontend"
-  />
+**Modern Full-Stack Applications**
 
-  <img
-    src="https://img.shields.io/badge/Backend-Django%20%26%20REST%20API-38BDF8?style=flat-square"
-    alt="Backend"
-  />
+**Scalable APIs**
 
-  <img
-    src="https://img.shields.io/badge/Shopify-App%20Development-38BDF8?style=flat-square"
-    alt="Shopify"
-  />
+**Shopify Integrations**
 
-</p>
+</td>
 
-
-<p align="center">
-
-  <b>Interested in:</b>
-  Web Development • APIs • Databases • Shopify • Software Architecture
-
-  <br />
-
-  <b>Currently exploring:</b>
-  Modern Full-Stack Development & Scalable Web Applications 🚀
-
-</p>
+</tr>
+</table>
 
 
 <!-- ========================================================= -->
 <!--                       WHAT I DO                           -->
 <!-- ========================================================= -->
 
-<h2 align="center">What I Do</h2>
+## ⚡ What I Do
 
-<table width="100%" border="0" align="center">
+<table>
+<tr>
 
-  <tr>
+<td width="50%" align="center">
 
-    <td width="50%" align="center" style="padding: 18px;">
+### 🚀 Full-Stack Development
 
-      <h3>🚀 Full-Stack Development</h3>
+Building modern web applications using:
 
-      <p>
-        Building modern web applications using React, Next.js,
-        TypeScript, Django, REST APIs and databases.
-      </p>
+**React • Next.js • TypeScript • APIs • Databases**
 
-    </td>
+</td>
 
+<td width="50%" align="center">
 
-    <td width="50%" align="center" style="padding: 18px;">
+### 🛍️ Shopify Development
 
-      <h3>🛍️ Shopify Development</h3>
+Developing Shopify applications and integrations using:
 
-      <p>
-        Developing Shopify applications and integrations using
-        Shopify Admin API, GraphQL and modern web technologies.
-      </p>
+**Shopify Admin API • GraphQL • Webhooks**
 
-    </td>
+</td>
 
-  </tr>
+</tr>
 
+<tr>
 
-  <tr>
+<td width="50%" align="center">
 
-    <td width="50%" align="center" style="padding: 18px;">
+### 🗄️ Database Development
 
-      <h3>🗄️ Database Development</h3>
+Working with:
 
-      <p>
-        Working with PostgreSQL, Oracle SQL and Prisma for
-        application data management and database operations.
-      </p>
+**PostgreSQL • Oracle SQL • Prisma**
 
-    </td>
+</td>
 
+<td width="50%" align="center">
 
-    <td width="50%" align="center" style="padding: 18px;">
+### 🔌 API Development
 
-      <h3>🔌 API Development</h3>
+Building and integrating:
 
-      <p>
-        Building and integrating REST APIs and GraphQL-based
-        services for modern applications.
-      </p>
+**REST APIs • GraphQL APIs • Third-party APIs**
 
-    </td>
+</td>
 
-  </tr>
-
+</tr>
 </table>
 
 
 <!-- ========================================================= -->
-<!--                  TECH STACK & SKILLS                      -->
+<!--                    TECH STACK                             -->
 <!-- ========================================================= -->
 
-<h2 align="center">Tech Stack & Skills</h2>
+## 🧠 Tech Stack
 
+### 🎨 Frontend
 
-<!-- ================= PROGRAMMING LANGUAGES ================= -->
+<p>
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" alt="React"/>
+</a>
 
-<p align="center">
-  <b>Programming Languages</b>
-</p>
+<a href="https://nextjs.org/">
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
+</a>
 
-<p align="center">
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/>
+</a>
 
-  <img
-    src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&theme=dark"
-    alt="Programming Languages"
-  />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
+</a>
 
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
+</a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
+</a>
 
-<!-- ================= FRONTEND ================= -->
-
-<p align="center">
-  <b>Frontend Development</b>
-</p>
-
-<p align="center">
-
-  <img
-    src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"
-    alt="Frontend Technologies"
-  />
-
-</p>
-
-
-<!-- ================= BACKEND ================= -->
-
-<p align="center">
-  <b>Backend Development</b>
-</p>
-
-<p align="center">
-
-  <img
-    src="https://skillicons.dev/icons?i=python,django&theme=dark"
-    alt="Backend Technologies"
-  />
-
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/>
+</a>
 </p>
 
 
-<p align="center">
+### ⚙️ Backend
 
-  <img
-    src="https://img.shields.io/badge/REST%20API-38BDF8?style=for-the-badge&logo=postman&logoColor=white"
-    alt="REST API"
-  />
+<p>
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+</a>
 
-  <img
-    src="https://img.shields.io/badge/GraphQL-38BDF8?style=for-the-badge&logo=graphql&logoColor=white"
-    alt="GraphQL"
-  />
+<a href="https://www.djangoproject.com/">
+<img src="https://skillicons.dev/icons?i=django" alt="Django"/>
+</a>
 
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" alt="Java"/>
+</a>
 </p>
 
 
-<!-- ================= DATABASE ================= -->
+### 🗄️ Database & ORM
 
-<p align="center">
-  <b>Database & ORM</b>
-</p>
+<p>
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/>
+</a>
 
-<p align="center">
+<a href="https://www.prisma.io/">
+<img src="https://skillicons.dev/icons?i=prisma" alt="Prisma"/>
+</a>
 
-  <img
-    src="https://skillicons.dev/icons?i=postgresql,prisma&theme=dark"
-    alt="Database Technologies"
-  />
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+</a>
 
-</p>
-
-
-<p align="center">
-
-  <img
-    src="https://img.shields.io/badge/Oracle%20SQL-38BDF8?style=for-the-badge&logo=oracle&logoColor=white"
-    alt="Oracle SQL"
-  />
-
+<a href="https://www.oracle.com/database/">
+<img src="https://skillicons.dev/icons?i=oracle" alt="Oracle"/>
+</a>
 </p>
 
 
 <!-- ========================================================= -->
-<!--                    SHOPIFY DEVELOPMENT                    -->
+<!--                    SHOPIFY                                -->
 <!-- ========================================================= -->
 
-<h2 align="center">Shopify Development</h2>
+## 🛍️ Shopify Development
 
-<p align="center">
+<table>
+<tr>
 
-  <i>
-    Building Shopify applications, integrations, APIs and
-    e-commerce solutions.
-  </i>
+<td align="center">
 
-</p>
+<a href="https://www.shopify.com/">
+<img src="https://skillicons.dev/icons?i=shopify" width="70" alt="Shopify"/>
+</a>
 
+<br>
 
-<p align="center">
+**Shopify**
 
-  <img
-    src="https://img.shields.io/badge/Shopify-38BDF8?style=for-the-badge&logo=shopify&logoColor=white"
-    alt="Shopify"
-  />
+</td>
 
-  <img
-    src="https://img.shields.io/badge/Shopify%20Admin%20API-38BDF8?style=for-the-badge&logo=shopify&logoColor=white"
-    alt="Shopify Admin API"
-  />
+<td>
 
-  <img
-    src="https://img.shields.io/badge/Shopify%20GraphQL-38BDF8?style=for-the-badge&logo=graphql&logoColor=white"
-    alt="Shopify GraphQL"
-  />
+### Shopify Technologies
 
-  <img
-    src="https://img.shields.io/badge/Shopify%20App%20Development-38BDF8?style=for-the-badge&logo=shopify&logoColor=white"
-    alt="Shopify App Development"
-  />
+- Shopify App Development
+- Shopify Admin API
+- Shopify GraphQL
+- Shopify Webhooks
+- Store Integrations
+- E-commerce Applications
 
-</p>
+</td>
+
+</tr>
+</table>
 
 
 <!-- ========================================================= -->
-<!--                    TOOLS & PLATFORMS                      -->
+<!--                    TOOLS                                  -->
 <!-- ========================================================= -->
 
-<h2 align="center">Tools & Platforms</h2>
+## 🛠️ Tools & Platforms
 
 <p align="center">
 
-  <img
-    src="https://skillicons.dev/icons?i=git,vscode,postman,linux,ubuntu&theme=dark"
-    alt="Tools"
-  />
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+</a>
 
-</p>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+</a>
 
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
+</a>
 
-<p align="center">
+<a href="https://www.postman.com/">
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>
+</a>
 
-  <img
-    src="https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+</a>
 
-  <img
-    src="https://img.shields.io/badge/Canva-38BDF8?style=for-the-badge&logo=canva&logoColor=white"
-    alt="Canva"
-  />
+<a href="https://aws.amazon.com/">
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
+</a>
+
+<a href="https://vercel.com/">
+<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/>
+</a>
+
+<a href="https://www.figma.com/">
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
+</a>
 
 </p>
 
 
 <!-- ========================================================= -->
-<!--                         ALL SKILLS                        -->
+<!--                    ALL SKILLS                             -->
 <!-- ========================================================= -->
 
-<h2 align="center">All Skills</h2>
+## 💎 All Skills
 
 <p align="center">
 
-  <!-- Programming -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-  <img
-    src="https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=python&logoColor=white"
-    alt="Python"
-  />
+<br>
 
-  <img
-    src="https://img.shields.io/badge/TypeScript-38BDF8?style=for-the-badge&logo=typescript&logoColor=white"
-    alt="TypeScript"
-  />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 
-  <img
-    src="https://img.shields.io/badge/JavaScript-38BDF8?style=for-the-badge&logo=javascript&logoColor=white"
-    alt="JavaScript"
-  />
+<br>
 
-  <img
-    src="https://img.shields.io/badge/HTML-38BDF8?style=for-the-badge&logo=html5&logoColor=white"
-    alt="HTML"
-  />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-  <img
-    src="https://img.shields.io/badge/CSS-38BDF8?style=for-the-badge&logo=css3&logoColor=white"
-    alt="CSS"
-  />
+<br>
 
-  <br />
-
-  <!-- Frontend -->
-
-  <img
-    src="https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=white"
-    alt="React"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Next.js-38BDF8?style=for-the-badge&logo=next.js&logoColor=white"
-    alt="Next.js"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"
-    alt="Tailwind CSS"
-  />
-
-  <br />
-
-  <!-- Backend -->
-
-  <img
-    src="https://img.shields.io/badge/Django-38BDF8?style=for-the-badge&logo=django&logoColor=white"
-    alt="Django"
-  />
-
-  <img
-    src="https://img.shields.io/badge/REST%20API-38BDF8?style=for-the-badge&logo=postman&logoColor=white"
-    alt="REST API"
-  />
-
-  <img
-    src="https://img.shields.io/badge/GraphQL-38BDF8?style=for-the-badge&logo=graphql&logoColor=white"
-    alt="GraphQL"
-  />
-
-  <br />
-
-  <!-- Database -->
-
-  <img
-    src="https://img.shields.io/badge/PostgreSQL-38BDF8?style=for-the-badge&logo=postgresql&logoColor=white"
-    alt="PostgreSQL"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Oracle%20SQL-38BDF8?style=for-the-badge&logo=oracle&logoColor=white"
-    alt="Oracle SQL"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Prisma-38BDF8?style=for-the-badge&logo=prisma&logoColor=white"
-    alt="Prisma"
-  />
-
-  <br />
-
-  <!-- Shopify -->
-
-  <img
-    src="https://img.shields.io/badge/Shopify-38BDF8?style=for-the-badge&logo=shopify&logoColor=white"
-    alt="Shopify"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Shopify%20Admin%20API-38BDF8?style=for-the-badge&logo=shopify&logoColor=white"
-    alt="Shopify Admin API"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Shopify%20GraphQL-38BDF8?style=for-the-badge&logo=graphql&logoColor=white"
-    alt="Shopify GraphQL"
-  />
-
-  <br />
-
-  <!-- Tools -->
-
-  <img
-    src="https://img.shields.io/badge/Git-38BDF8?style=for-the-badge&logo=git&logoColor=white"
-    alt="Git"
-  />
-
-  <img
-    src="https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-
-  <img
-    src="https://img.shields.io/badge/VS%20Code-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white"
-    alt="VS Code"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Postman-38BDF8?style=for-the-badge&logo=postman&logoColor=white"
-    alt="Postman"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Canva-38BDF8?style=for-the-badge&logo=canva&logoColor=white"
-    alt="Canva"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Linux-38BDF8?style=for-the-badge&logo=linux&logoColor=white"
-    alt="Linux"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Ubuntu-38BDF8?style=for-the-badge&logo=ubuntu&logoColor=white"
-    alt="Ubuntu"
-  />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shopify_Admin_API-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shopify_GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 
 </p>
 
@@ -513,112 +351,107 @@
 <!--                    GITHUB ANALYTICS                       -->
 <!-- ========================================================= -->
 
-<h2 align="center">GitHub Analytics & Activity</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AbineshElangovan&show_icons=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_color=38BDF8&border_radius=8"
-    width="48%"
-    alt="GitHub Stats"
-  />
+<a href="https://github.com/AbineshElangovan">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbineshElangovan&layout=compact&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&border_color=38BDF8&border_radius=8"
-    width="40%"
-    alt="Top Languages"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AbineshElangovan&show_icons=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3&icon_color=7C3AED&border_color=30363D&border_radius=12"
+  width="48%"
+  alt="GitHub Stats"
+/>
+
+</a>
+
+<a href="https://github.com/AbineshElangovan">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbineshElangovan&layout=compact&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3&border_color=30363D&border_radius=12"
+  width="40%"
+  alt="Top Languages"
+/>
+
+</a>
 
 </p>
 
 
 <!-- ========================================================= -->
-<!--                      GITHUB STREAK                        -->
+<!--                    GITHUB STREAK                          -->
 <!-- ========================================================= -->
 
-<h2 align="center">GitHub Streak</h2>
+## 🔥 GitHub Streak
 
 <p align="center">
 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AbineshElangovan&theme=dark&background=0F172A&border=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8"
-    width="480"
-    alt="GitHub Streak"
-  />
+<a href="https://github.com/AbineshElangovan">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AbineshElangovan&theme=dark&background=0D1117&border=38BDF8&ring=7C3AED&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8"
+  width="600"
+  alt="GitHub Streak"
+/>
+
+</a>
 
 </p>
 
 
 <!-- ========================================================= -->
-<!--                  CONTRIBUTION GRAPH                       -->
+<!--                CONTRIBUTION GRAPH                         -->
 <!-- ========================================================= -->
 
-<h2 align="center">Contribution Activity</h2>
+## 📈 Contribution Activity
 
 <p align="center">
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AbineshElangovan&bg_color=0F172A&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true"
-    width="95%"
-    alt="GitHub Contribution Graph"
-  />
+<a href="https://github.com/AbineshElangovan">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AbineshElangovan&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
+  width="95%"
+  alt="Contribution Graph"
+/>
+
+</a>
 
 </p>
 
 
 <!-- ========================================================= -->
-<!--                       CONNECT                             -->
+<!--                    CONNECT                                -->
 <!-- ========================================================= -->
 
-<h2 align="center">Let's Connect</h2>
+## 🌐 Let's Connect
 
-<p align="center">
+<div align="center">
 
-  <i>
-    Building, learning, and growing as a Software Developer 🚀
-  </i>
+### 🚀 Building. Learning. Shipping.
 
-</p>
+I'm always interested in discussing **web development, APIs, Shopify, software architecture and new projects.**
 
+<br>
 
-<p align="center">
+<a href="https://github.com/AbineshElangovan">
+<img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/AbineshElangovan">
-    <img
-      src="https://img.shields.io/badge/GitHub-Visit%20Profile-38BDF8?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/abinesh-elangovan-8535a7235/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://github.com/AbineshElangovan/Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-View-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/abinesh-elangovan-8535a7235/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+<br><br>
 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"
+  width="100%"
+  alt="Footer"
+/>
 
-  <a href="https://github.com/AbineshElangovan/Portfolio">
-    <img
-      src="https://img.shields.io/badge/Portfolio-View%20Portfolio-38BDF8?style=for-the-badge&logo=github&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-
-</p>
-
-
-<!-- ========================================================= -->
-<!--                         FOOTER                            -->
-<!-- ========================================================= -->
-
-<p align="center">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"
-    width="100%"
-    alt="Footer"
-  />
-
-</p>
+</div>
