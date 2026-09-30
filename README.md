@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=%3E_%20ABINESH%20E&fontSize=62&fontColor=FF3B30&fontAlignY=40&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%7C%20SHOPIFY%20ENGINEER%20%7C%20PRODUCT%20BUILDER&descAlignY=64&descSize=16&color=0:030303,35:100000,65:220000,100:030303" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=%3E_%20ABINESH%20ELANGOVAN&fontSize=62&fontColor=FF3B30&fontAlignY=40&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%7C%20SHOPIFY%20ENGINEER%20%7C%20PRODUCT%20BUILDER&descAlignY=64&descSize=16&color=0:030303,35:100000,65:220000,100:030303" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=FF3B30&center=true&vCenter=true&width=850&height=45&lines=%3E+Building+scalable+web+applications;%3E+Engineering+Shopify+apps+%26+APIs;%3E+Turning+ideas+into+production+systems" />
 
