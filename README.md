@@ -1,124 +1,372 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=ABINESH%20E&fontSize=64&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Shopify%20Engineer%20%E2%80%A2%20Product%20Builder&descAlignY=63&descSize=18&color=0:0B1220,35:0F766E,70:0EA5E9,100:F59E0B" width="100%" alt="Abinesh E"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=%3E_%20ABINESH%20E&fontSize=62&fontColor=FF3B30&fontAlignY=40&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%7C%20SHOPIFY%20ENGINEER%20%7C%20PRODUCT%20BUILDER&descAlignY=64&descSize=16&color=0:030303,35:100000,65:220000,100:030303" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=900&height=50&lines=I+build+fast%2C+scalable+web+apps;Next.js+%C2%B7+TypeScript+%C2%B7+Prisma+%C2%B7+Shopify;Ideas+in.+Production-ready+products+out." alt="Typing"/>
-
-<a href="https://github.com/AbineshElangovan"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/abinesh-elangovan-8535a7235/"><img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/AbineshElangovan/Portfolio"><img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-<img src="https://komarev.com/ghpvc/?username=AbineshElangovan&label=VIEWS&color=14B8A6&style=for-the-badge" alt="Views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:14B8A6,50:6366F1,100:F43F5E" width="100%" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=FF3B30&center=true&vCenter=true&width=850&height=45&lines=%3E+Building+scalable+web+applications;%3E+Engineering+Shopify+apps+%26+APIs;%3E+Turning+ideas+into+production+systems" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=70&text=01%20//%20ABOUT%20ME&fontSize=24&fontColor=FFFFFF&color=0:14B8A6,100:06B6D4" width="380" alt="About"/>
+<a href="https://github.com/AbineshElangovan">
+<img src="https://img.shields.io/badge/%3E_GITHUB-080808?style=for-the-badge&logo=github&logoColor=FF3B30" />
+</a>
+
+<a href="https://www.linkedin.com/in/abinesh-elangovan-8535a7235/">
+<img src="https://img.shields.io/badge/%3E_LINKEDIN-080808?style=for-the-badge&logo=linkedin&logoColor=FF3B30" />
+</a>
+
+<a href="https://github.com/AbineshElangovan/Portfolio">
+<img src="https://img.shields.io/badge/%3E_PORTFOLIO-080808?style=for-the-badge&logo=vercel&logoColor=FF3B30" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF3B30" width="92%" />
 
 </div>
 
-```ts
-const abinesh = {
-  role: "Software Developer",
-  focus: ["Full-Stack Web", "Shopify Apps", "APIs"],
-  stack: ["Next.js", "TypeScript", "Prisma", "PostgreSQL"],
-  mindset: "Build. Learn. Ship.",
-  exploring: "Scalable, production-ready architecture",
-};
-```
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,python,java,postgres,prisma,docker&perline=8&theme=dark" width="620" alt="Core stack"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=65&text=%3E_%20ABOUT_ME&fontSize=23&fontColor=FFFFFF&fontAlignY=55&color=0:080808,100:220000" width="330" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=70&text=02%20//%20WHAT%20I%20DO&fontSize=24&fontColor=FFFFFF&color=0:6366F1,100:8B5CF6" width="380" alt="What I Do"/>
+</div>
+
+<table align="center">
+<tr>
+
+<td width="55%" valign="top">
+
+### `> whoami`
+
+**Software Developer**
+
+I build modern web applications, Shopify applications, backend APIs and scalable data-driven systems.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=170&text=Full-Stack%20Apps&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=React%2C%20Next.js%2C%20TypeScript%2C%20APIs%20%26%20databases&descSize=15&descAlignY=62&color=0:0EA5E9,100:6366F1" width="46%" alt="Full-Stack"/>
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=170&text=Shopify%20Development&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=Apps%2C%20Admin%20API%2C%20GraphQL%20%26%20webhooks&descSize=15&descAlignY=62&color=0:22C55E,100:0D9488" width="46%" alt="Shopify"/>
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=170&text=Data%20Layer&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=PostgreSQL%2C%20MySQL%2C%20Oracle%20SQL%2C%20SQLite%20%26%20Prisma&descSize=15&descAlignY=62&color=0:F59E0B,100:EF4444" width="46%" alt="Data"/>
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=170&text=API%20Engineering&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=REST%2C%20GraphQL%20%26%20third-party%20integrations&descSize=15&descAlignY=62&color=0:EC4899,100:8B5CF6" width="46%" alt="API"/>
+### `> current_focus`
 
-<br/><br/>
+`Full-Stack Development`
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=70&text=03%20//%20TECH%20STACK&fontSize=24&fontColor=FFFFFF&color=0:F43F5E,100:F97316" width="380" alt="Tech Stack"/>
+`Shopify Applications`
 
-<br/>
+`REST APIs`
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=50&text=FRONTEND&fontSize=18&fontColor=FFFFFF&color=0:0EA5E9,100:6366F1" width="220" alt="Frontend"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark" width="380" alt="Frontend"/>
+`GraphQL`
 
-<br/><br/>
+`Database Engineering`
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=50&text=BACKEND&fontSize=18&fontColor=FFFFFF&color=0:14B8A6,100:22C55E" width="220" alt="Backend"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,java,graphql&theme=dark" width="320" alt="Backend"/>
+</td>
 
-<br/><br/>
+<td width="45%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=50&text=DATABASE&fontSize=18&fontColor=FFFFFF&color=0:F59E0B,100:F97316" width="220" alt="Database"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma&theme=dark" width="260" alt="Database"/>
-<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+### `> mindset`
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=50&text=E-COMMERCE&fontSize=18&fontColor=FFFFFF&color=0:84CC16,100:22C55E" width="220" alt="E-commerce"/>
-<br/>
-<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
-<img src="https://img.shields.io/badge/Admin%20API-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white" alt="Admin API"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-<img src="https://img.shields.io/badge/Webhooks-6366F1?style=for-the-badge" alt="Webhooks"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=50&text=TOOLS%20%26%20PLATFORMS&fontSize=18&fontColor=FFFFFF&color=0:8B5CF6,100:EC4899" width="260" alt="Tools"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,aws,vercel,figma&theme=dark" width="520" alt="Tools"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=70&text=04%20//%20GITHUB%20ANALYTICS&fontSize=24&fontColor=FFFFFF&color=0:0EA5E9,100:6366F1" width="420" alt="Analytics"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbineshElangovan&show_icons=true&hide_border=true&bg_color=0B1220&title_color=2DD4BF&icon_color=F59E0B&text_color=E2E8F0&ring_color=6366F1&border_radius=14" height="175" alt="Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbineshElangovan&layout=compact&hide_border=true&bg_color=0B1220&title_color=2DD4BF&text_color=E2E8F0&border_radius=14" height="175" alt="Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=AbineshElangovan&theme=dark&hide_border=true&background=0B1220&ring=F43F5E&fire=F59E0B&currStreakLabel=2DD4BF&border_radius=14" alt="Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbineshElangovan&bg_color=0B1220&color=2DD4BF&line=6366F1&point=F59E0B&area=true&area_color=6366F1&hide_border=true" width="100%" alt="Activity"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=70&text=05%20//%20PROJECTS&fontSize=24&fontColor=FFFFFF&color=0:F59E0B,100:EF4444" width="380" alt="Projects"/>
+**BUILD** → **LEARN** → **IMPROVE** → **SHIP**
 
 <br/>
 
-<a href="https://github.com/AbineshElangovan?tab=repositories"><img src="https://capsule-render.vercel.app/api?type=rounded&height=170&text=Shopify%20Applications&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=Apps%2C%20integrations%2C%20APIs%20%26%20e-commerce&descSize=15&descAlignY=62&color=0:16A34A,100:84CC16" width="46%" alt="Shopify Apps"/></a>
-<a href="https://github.com/AbineshElangovan?tab=repositories"><img src="https://capsule-render.vercel.app/api?type=rounded&height=170&text=Full-Stack%20Applications&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=React%2C%20Next.js%2C%20TypeScript%2C%20Python%20%26%20APIs&descSize=15&descAlignY=62&color=0:06B6D4,100:3B82F6" width="46%" alt="Full-Stack Apps"/></a>
+### `> exploring`
+
+Scalable Architecture  
+API Engineering  
+E-Commerce Systems  
+Cloud Technologies
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=550000" width="75%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=65&text=%3E_%20WHAT_I_BUILD&fontSize=23&fontColor=FFFFFF&fontAlignY=55&color=0:080808,100:220000" width="360" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=70&text=06%20//%20LET%27S%20CONNECT&fontSize=24&fontColor=FFFFFF&color=0:EC4899,100:F43F5E" width="380" alt="Connect"/>
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+## `01`
+
+### FULL-STACK APPLICATIONS
+
+React • Next.js • TypeScript  
+REST APIs • Databases  
+Production-ready applications
+
+</td>
+
+<td align="center" width="50%">
+
+## `02`
+
+### SHOPIFY DEVELOPMENT
+
+Shopify Apps • Admin API  
+GraphQL • Webhooks  
+E-Commerce Systems
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+## `03`
+
+### API ENGINEERING
+
+REST APIs • GraphQL  
+Authentication  
+Third-party Integrations
+
+</td>
+
+<td align="center" width="50%">
+
+## `04`
+
+### DATA SYSTEMS
+
+PostgreSQL • MySQL  
+Oracle • SQLite  
+Prisma
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=65&text=%3E_%20TECH_STACK&fontSize=23&fontColor=FFFFFF&fontAlignY=55&color=0:080808,100:220000" width="330" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&height=40&lines=Building.+Learning.+Shipping.;Open+to+great+conversations+and+ideas." alt="Footer typing"/>
+<h3>FRONTEND</h3>
 
-<a href="https://github.com/AbineshElangovan"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/abinesh-elangovan-8535a7235/"><img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/AbineshElangovan/Portfolio"><img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+<a href="https://react.dev/" title="React">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1220,35:0F766E,70:0EA5E9,100:F59E0B" width="100%" alt="Footer"/>
+<a href="https://nextjs.org/" title="Next.js">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="55"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" title="TypeScript">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="55"/>
+</a>
+
+<br/><br/>
+
+<h3>BACKEND</h3>
+
+<a href="https://www.java.com/" title="Java">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="55"/>
+</a>
+
+<a href="https://spring.io/projects/spring-boot" title="Spring Boot">
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="55"/>
+</a>
+
+<a href="https://www.python.org/" title="Python">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="55"/>
+</a>
+
+<a href="https://nodejs.org/" title="Node.js">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="55"/>
+</a>
+
+<a href="https://www.djangoproject.com/" title="Django">
+<img src="https://skillicons.dev/icons?i=django&theme=dark" width="55"/>
+</a>
+
+<a href="https://graphql.org/" title="GraphQL">
+<img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="55"/>
+</a>
+
+<br/><br/>
+
+<h3>DATABASE</h3>
+
+<a href="https://www.postgresql.org/" title="PostgreSQL">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="55"/>
+</a>
+
+<a href="https://www.mysql.com/" title="MySQL">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="55"/>
+</a>
+
+<a href="https://www.sqlite.org/" title="SQLite">
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="55"/>
+</a>
+
+<a href="https://www.prisma.io/" title="Prisma">
+<img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="55"/>
+</a>
+
+<a href="https://www.oracle.com/database/" title="Oracle">
+<img src="https://img.shields.io/badge/ORACLE-080808?style=for-the-badge&logo=oracle&logoColor=FF3B30" />
+</a>
+
+<br/><br/>
+
+<h3>SHOPIFY & E-COMMERCE</h3>
+
+<a href="https://shopify.dev/" title="Shopify Developer">
+<img src="https://skillicons.dev/icons?i=shopify&theme=dark" width="55"/>
+</a>
+
+<a href="https://shopify.dev/docs/api/admin-graphql" title="Shopify Admin API">
+<img src="https://img.shields.io/badge/ADMIN_API-080808?style=for-the-badge&logo=shopify&logoColor=FF3B30" />
+</a>
+
+<a href="https://shopify.dev/docs/api/webhooks" title="Shopify Webhooks">
+<img src="https://img.shields.io/badge/WEBHOOKS-080808?style=for-the-badge&logo=shopify&logoColor=FF3B30" />
+</a>
+
+<a href="https://graphql.org/" title="GraphQL">
+<img src="https://img.shields.io/badge/GRAPHQL-080808?style=for-the-badge&logo=graphql&logoColor=FF3B30" />
+</a>
+
+<br/><br/>
+
+<h3>TOOLS & PLATFORMS</h3>
+
+<a href="https://code.visualstudio.com/" title="VS Code">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="55"/>
+</a>
+
+<a href="https://git-scm.com/" title="Git">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/>
+</a>
+
+<a href="https://github.com/" title="GitHub">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="55"/>
+</a>
+
+<a href="https://www.postman.com/" title="Postman">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="55"/>
+</a>
+
+<a href="https://www.docker.com/" title="Docker">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="55"/>
+</a>
+
+<a href="https://aws.amazon.com/" title="AWS">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="55"/>
+</a>
+
+<a href="https://vercel.com/" title="Vercel">
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="55"/>
+</a>
+
+<a href="https://www.figma.com/" title="Figma">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="55"/>
+</a>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=65&text=%3E_%20GITHUB_ACTIVITY&fontSize=23&fontColor=FFFFFF&fontAlignY=55&color=0:080808,100:220000" width="390" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbineshElangovan&show_icons=true&hide_border=true&bg_color=080808&title_color=FF3B30&icon_color=FF3B30&text_color=FFFFFF&ring_color=FF3B30&border_radius=12" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbineshElangovan&layout=compact&hide_border=true&bg_color=080808&title_color=FF3B30&text_color=FFFFFF&border_radius=12" height="175"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=AbineshElangovan&theme=dark&hide_border=true&background=080808&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30&border_radius=12" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbineshElangovan&bg_color=080808&color=FF3B30&line=8B0000&point=FF3B30&area=true&area_color=330000&hide_border=true" width="95%"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=65&text=%3E_%20PROJECTS&fontSize=23&fontColor=FFFFFF&fontAlignY=55&color=0:080808,100:220000" width="300" />
+
+<br/><br/>
+
+<a href="https://github.com/AbineshElangovan?tab=repositories">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&text=SHOPIFY%20APPLICATIONS&fontSize=25&fontColor=FF3B30&fontAlignY=40&desc=E-commerce%20%7C%20APIs%20%7C%20Integrations%20%7C%20Webhooks&descSize=14&descAlignY=62&color=0:080808,100:180000" width="44%" />
+</a>
+
+<a href="https://github.com/AbineshElangovan?tab=repositories">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&text=FULL-STACK%20APPLICATIONS&fontSize=25&fontColor=FF3B30&fontAlignY=40&desc=React%20%7C%20Next.js%20%7C%20TypeScript%20%7C%20APIs&descSize=14&descAlignY=62&color=0:080808,100:180000" width="44%" />
+</a>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=65&text=%3E_%20CONNECT&fontSize=23&fontColor=FFFFFF&fontAlignY=55&color=0:080808,100:220000" width="300" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=900&color=FF3B30&center=true&vCenter=true&width=700&height=40&lines=%3E+BUILDING;%3E+LEARNING;%3E+SHIPPING;%3E+OPEN_TO_NEW_OPPORTUNITIES" />
+
+<br/><br/>
+
+<a href="https://github.com/AbineshElangovan">
+<img src="https://img.shields.io/badge/%3E_GITHUB-080808?style=for-the-badge&logo=github&logoColor=FF3B30" />
+</a>
+
+<a href="https://www.linkedin.com/in/abinesh-elangovan-8535a7235/">
+<img src="https://img.shields.io/badge/%3E_LINKEDIN-080808?style=for-the-badge&logo=linkedin&logoColor=FF3B30" />
+</a>
+
+<a href="https://github.com/AbineshElangovan/Portfolio">
+<img src="https://img.shields.io/badge/%3E_PORTFOLIO-080808?style=for-the-badge&logo=vercel&logoColor=FF3B30" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:030303,35:100000,65:220000,100:030303" width="100%" />
 
 </div>
