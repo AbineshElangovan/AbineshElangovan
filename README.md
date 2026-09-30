@@ -5,9 +5,9 @@
 <!-- ========================================================= -->
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=%3E_%20ABINESH%20ELANGOVEN&fontSize=64&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%7C%20SHOPIFY%20ENGINEER%20%7C%20PRODUCT%20BUILDER&descAlignY=64&descSize=16&color=0:030303,20:3D0000,45:CC0000,70:FF1A1A,100:030303"
+src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=%3E_%20ABINESH%20ELANGOVAN&fontSize=52&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%7C%20SHOPIFY%20ENGINEER%20%7C%20PRODUCT%20BUILDER&descAlignY=64&descSize=16&color=0:030303,20:3D0000,45:CC0000,70:FF1A1A,100:030303"
 width="100%"
-alt="Abinesh E"
+alt="Abinesh Elangovan"
 />
 
 <img
@@ -57,9 +57,11 @@ height="42"
 
 <td width="60%" valign="top">
 
-### `> WHO AM I?`
+<img src="https://img.shields.io/badge/%3E_WHO_AM_I%3F-FF3B30?style=for-the-badge&labelColor=250000&color=990000"/>
 
-I'm **Abinesh E**, a **Computer Science Engineering (CSE)** graduate and currently working as a **Software Developer**.
+<br/><br/>
+
+I'm **Abinesh Elangovan**, a **Computer Science Engineering (CSE)** graduate and currently working as a **Software Developer**.
 
 I build modern web applications, Shopify applications, backend APIs and scalable data-driven systems.
 
@@ -336,7 +338,7 @@ height="34"
 <br/><br/>
 
 <!-- ========================================================= -->
-<!--                    GITHUB ACTIVITY                         -->
+<!--                    GITHUB ACTIVITY                        -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -395,13 +397,33 @@ alt="Top Languages"
 <br/><br/>
 
 <!-- ========================================================= -->
+<!--                       PROJECTS                            -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+src="https://img.shields.io/badge/%3E__PROJECTS-FF1A1A?style=for-the-badge&labelColor=450000&color=FF1A1A"
+height="42"
+/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SHOPIFY_APPLICATIONS-063D1A?style=for-the-badge&logo=shopify&logoColor=22C55E&labelColor=090909"/>
+<img src="https://img.shields.io/badge/FULL--STACK_APPLICATIONS-180000?style=for-the-badge&logo=react&logoColor=FF3B30&labelColor=090909"/>
+
+</div>
+
+<br/><br/>
+
+<!-- ========================================================= -->
 <!--                     CONNECT                               -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-src="https://img.shields.io/badge/%3E__LET'S_CONNECT-FF1A1A?style=for-the-badge&labelColor=450000&color=FF1A1A"
+src="https://img.shields.io/badge/%3E__LET%27S_CONNECT-FF1A1A?style=for-the-badge&labelColor=450000&color=FF1A1A"
 height="42"
 />
 
