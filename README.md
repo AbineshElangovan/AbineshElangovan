@@ -5,7 +5,7 @@
 <!-- ========================================================= -->
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=%3E_%20ABINESH%20E&fontSize=64&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%7C%20SHOPIFY%20ENGINEER%20%7C%20PRODUCT%20BUILDER&descAlignY=64&descSize=16&color=0:030303,20:3D0000,45:CC0000,70:FF1A1A,100:030303"
+src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=%3E_%20ABINESH%20ELANGOVEN&fontSize=64&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%7C%20SHOPIFY%20ENGINEER%20%7C%20PRODUCT%20BUILDER&descAlignY=64&descSize=16&color=0:030303,20:3D0000,45:CC0000,70:FF1A1A,100:030303"
 width="100%"
 alt="Abinesh E"
 />
